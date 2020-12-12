@@ -6,4 +6,4 @@ Proyecto creado en react para mostrar los incendios forestales en el mundo, segu
 ##### Pendiente 
 Trabajar funcionalidad de seleccionar distintos desastres :blush:
 
-![](https://christhiansm.github.io/fire-tracker-app/)
+![](https://github.com/ChristhianSM/fire-tracker-app/blob/main/src/assets/fire.PNG)

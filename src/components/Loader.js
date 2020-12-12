@@ -4,7 +4,7 @@ export const Loader = () => {
     return (
         <div className = 'loader'>
             <img src = {spinner} alt = 'Loading'></img>
-            <h1>Consultando...</h1>
+            <h1>Searching...</h1>
         </div>
     )
 }
